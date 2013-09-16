@@ -1,4 +1,4 @@
-\begin{thebibliography}{121}
+\begin{thebibliography}{126}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Abramowitz} \& {Stegun}(1965)}]{1965hmfw.book.....A}
@@ -74,6 +74,11 @@
 \bibitem[{{Brunetti} \& {Lazarian}(2011)}]{2010arXiv1008.0184B}
 {Brunetti} G., {Lazarian} A., 2011, MNRAS, 410, 127
 
+\bibitem[{{Brunetti} {et~al}\mbox{.}(2013){Brunetti}, {Rudnick}, {Cassano},
+  {Mazzotta}, {Donnert}, \& {Dolag}}]{2013arXiv1309.1820B}
+{Brunetti} G., {Rudnick} L., {Cassano} R., {Mazzotta} P., {Donnert} J., {Dolag}
+  K., 2013, ArXiv:1309.1820
+
 \bibitem[{{Cappelluti} {et~al}\mbox{.}(2011){Cappelluti}, {Predehl},
   {B{\"o}hringer}, {Brunner}, {Brusa}, {Burwitz}, {Churazov}, {Dennerl},
   {Finoguenov}, {Freyberg}, {Friedrich}, {Hasinger}, {Kenziorra},
@@ -95,6 +100,11 @@
   {R{\"o}ttgering}, \& {Br{\"u}ggen}}]{2010A&A...509A..68C}
 {Cassano} R., {Brunetti} G., {R{\"o}ttgering} H.~J.~A., {Br{\"u}ggen} M., 2010,
   A\&A, 509, A68
+
+\bibitem[{{Cassano} {et~al}\mbox{.}(2007){Cassano}, {Brunetti}, {Setti},
+  {Govoni}, \& {Dolag}}]{2007MNRAS.378.1565C}
+{Cassano} R., {Brunetti} G., {Setti} G., {Govoni} F., {Dolag} K., 2007, MNRAS,
+  378, 1565
 
 \bibitem[{{Cassano} {et~al}\mbox{.}(2013){Cassano}, {Ettori}, {Brunetti},
   {Giacintucci}, {Pratt}, {Venturi}, {Kale}, {Dolag}, \&
@@ -202,6 +212,9 @@
 \bibitem[{{Fermi-LAT Collaboration}(2010{\natexlab{b}})}]{2010ApJ...717L..71A}
 {Fermi-LAT Collaboration}, 2010{\natexlab{b}}, ApJl, 717, L71
 
+\bibitem[{{Fermi-LAT Collaboration}(2013)}]{2013arXiv1308.5654T}
+{Fermi-LAT Collaboration}, 2013, ArXiv:1308.5654
+
 \bibitem[{{Fujita} {et~al}\mbox{.}(2008){Fujita}, {Hayashida}, {Nagai},
   {Inoue}, {Matsumoto}, {Okabe}, {Reiprich}, {Sarazin}, \&
   {Takizawa}}]{2008PASJ...60.1133F}
@@ -253,6 +266,11 @@
 
 \bibitem[{{HESS Collaboration}(2012)}]{2012A&A...545A.103H}
 {HESS Collaboration}, 2012, A\&A, 545, A103
+
+\bibitem[{{Huber} {et~al}\mbox{.}(2013){Huber}, {Tchernin}, {Eckert},
+  {Farnier}, {Manalaysay}, {Straumann}, \& {Walter}}]{2013arXiv1308.6278H}
+{Huber} B., {Tchernin} C., {Eckert} D., {Farnier} C., {Manalaysay} A.,
+  {Straumann} U., {Walter} R., 2013, ArXiv:1308.6278
 
 \bibitem[{{Kale} {et~al}\mbox{.}(2013){Kale}, {Venturi}, {Giacintucci},
   {Dallacasa}, {Cassano}, {Brunetti}, {Macario}, \&
@@ -418,6 +436,9 @@
 \bibitem[{{Planck Collaboration}(2013)}]{2013arXiv1303.5080P}
 {Planck Collaboration}, 2013, ArXiv:1303.5080
 
+\bibitem[{{Prokhorov} \& {Churazov}(2013)}]{2013arXiv1309.0197P}
+{Prokhorov} D.~A., {Churazov} E.~M., 2013, ArXiv:1309.0197
+
 \bibitem[{{Reimer} {et~al}\mbox{.}(2003){Reimer}, {Pohl}, {Sreekumar}, \&
   {Mattox}}]{2003ApJ...588..155R}
 {Reimer} O., {Pohl} M., {Sreekumar} P., {Mattox} J.~R., 2003, ApJ, 588, 155
@@ -527,10 +548,8 @@
   {Guo}}]{2013arXiv1303.4746W}
 {Wiener} J., {Oh} S., {Guo} F., 2013, ArXiv:1303.4746
 
-\bibitem[{{Zimmer} {et~al}\mbox{.}(2012){Zimmer}, {Conrad}, \&
-  {Pinzke}}]{2012AAS...21920701Z}
-{Zimmer} S., {Conrad} J., {Pinzke} A., 2012, in American Astronomical Society
-  Meeting Abstracts, Vol. 219, American Astronomical Society Meeting Abstracts,
-  p. 207.01
+\bibitem[{{Zandanel} {et~al}\mbox{.}(2013){Zandanel}, {Pfrommer}, \&
+  {Prada}}]{paper1}
+{Zandanel} F., {Pfrommer} C., {Prada} F., 2013, ArXiv (Paper~I)
 
 \end{thebibliography}
